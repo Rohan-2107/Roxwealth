@@ -1,6 +1,8 @@
 # Restaurant Website Readme
 
 Welcome to the README for our Restaurant Website project! This document will guide you through the setup process and provide essential information for developers working on this project.
+<img width="960" alt="Screenshot 2023-12-03 220921" src="https://github.com/Rohan-2107/Roxwealth/assets/77926133/3210241f-9a96-45fb-aa95-0c265919dcd0">
+
 <img width="946" alt="Screenshot 2023-12-03 221050" src="https://github.com/Rohan-2107/Roxwealth/assets/77926133/73f749dd-636f-41b0-8915-96647b581cd0">
 <img width="923" alt="Screenshot 2023-12-03 221030" src="https://github.com/Rohan-2107/Roxwealth/assets/77926133/3fe48af9-09a7-44ce-bf4a-47cbdae518e2">
 <img width="917" alt="Screenshot 2023-12-03 221002" src="https://github.com/Rohan-2107/Roxwealth/assets/77926133/1392085b-0ef4-4758-b2a4-7cf97859b2e7">
