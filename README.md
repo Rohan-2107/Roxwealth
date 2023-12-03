@@ -1,23 +1,69 @@
-# Restaurant Landing Page
-### [Live Site](https://gericht-restaurant.com/)
+# Restaurant Website Readme
 
-![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
+Welcome to the README for our Restaurant Website project! This document will guide you through the setup process and provide essential information for developers working on this project.
+<img width="946" alt="Screenshot 2023-12-03 221050" src="https://github.com/Rohan-2107/Roxwealth/assets/77926133/73f749dd-636f-41b0-8915-96647b581cd0">
+<img width="923" alt="Screenshot 2023-12-03 221030" src="https://github.com/Rohan-2107/Roxwealth/assets/77926133/3fe48af9-09a7-44ce-bf4a-47cbdae518e2">
+<img width="917" alt="Screenshot 2023-12-03 221002" src="https://github.com/Rohan-2107/Roxwealth/assets/77926133/1392085b-0ef4-4758-b2a4-7cf97859b2e7">
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+## Getting Started
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
+To get started with the Restaurant Website project, follow these steps:
 
-## Introduction
-This is a code repository for the corresponding video tutorial. In this video, we're going to build a Modern UI/UX Restaurant Landing Page Website
+### Clone the Repository
 
-You might be wondering, what are the prerequisites for building such an amazing website? Don't worry, this course is completely beginner-friendly! We're going to start easy and them move to more complex topics. Every step of the way will be explained. Alongside building the website, you'll learn:
+Use the following command to clone the repository to your local machine:
 
-- React Functional components and their reusability
-- React file and folder structure
-- Fundamental CSS properties to master flex & grid
-- Fundamentals of the CSS BEM Model
-- From soft and pleasant animations to complex gradients
-- Perfectly placed media queries for satisfactory responsiveness covering almost devices
-- And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
+```bash
+git clone https://github.com/your-username/restaurant-website.git
+```
+
+### Install Dependencies
+
+Navigate to the project directory and install the required dependencies using npm:
+
+```bash
+cd restaurant-website
+npm install
+```
+
+### Start the Server
+
+Once the dependencies are installed, start the development server using the following command:
+
+```bash
+npm start
+```
+
+This will launch the server, and you can access the website by opening your browser and navigating to `http://localhost:3000`.
+
+### Troubleshooting
+
+If you encounter any issues during the setup, try running the following command to fix potential audit issues:
+
+```bash
+npm audit fix --force
+```
+
+This command will forcefully fix audit issues and ensure that your project dependencies are compatible.
+
+## Project Structure
+
+The project has the following structure:
+
+- **src**: Contains the source code for the restaurant website.
+- **public**: Contains static assets, such as images or HTML files.
+- **node_modules**: Contains the project dependencies.
+
+## Contributing
+
+If you would like to contribute to the project, please follow our [contribution guidelines](CONTRIBUTING.md). We appreciate your help and feedback!
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md).
+
+## Contact
+
+For any inquiries or issues, please contact us at [rohanrkc289@gmail.com](mailto:rohanrkc289@gmail.com).
+
+Happy coding! 🚀
